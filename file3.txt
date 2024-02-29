@@ -2,3 +2,8 @@ Hii I've created a new file to learn the checkout statement.
 
 > If we have not stagged the file then we can revert the change by using one command that is 
   "git checkout <filename>"
+
+> What if You stagged the file then want to revert the stagging, mention not keep one beautiful smile (😊) and use following commands to revert the stagging
+ 
+ "git reset HEAD <filename>"
+ "git checkout <filename>"
