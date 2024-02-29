@@ -1,1 +1,4 @@
 Hii I've created a new file to learn the checkout statement.
+
+> If we have not stagged the file then we can revert the change by using one command that is 
+  "git checkout <filename>"
