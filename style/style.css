@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,html{
+    background-color: whitesmoke;
+}
+
+.top-heading{
+    color: whitesmoke;
+}
+
+.custome-contact{
+    font-size: 18px;
+}
+
+.linkedin{
+    color: blue;
+}
+.instagram{
+    color: orangered;
+}
+
+.home-page-image{
+    border-radius: 50%;
+    width: 340px;
+    height: 450px;
+}
+
+.fname{
+    color: #0D9276;
+}
+
+.paragraph{
+    font-weight: 400;
+}
+
+.about-me{
+    color: blue;
+    font-size: 3rem;   
+}
+
+.about-text{
+    text-transform: capitalize;
+    color: #40A2D8;
+}
+
+ #about{
+    height: 100vh;
+}
+
+.skills-container{
+    width: 800px;
+}
+
+.about-image{
+    width: 150px;
+    height: auto;
+}
+
+.list ul{
+    display: flex;
+}
+
+.list li{
+    list-style: none;
+    margin-left: 10px;
+    color: whitesmoke;
+}
+
+
+#projects{
+    height: 100vh;
+    margin-top: 6rem;
+}
+
+@media (max-width: 991px){
+
+}
