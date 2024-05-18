@@ -107,4 +107,8 @@ a:hover{
         height: max-content;
         margin-bottom: 1rem;
        }
+       #projects{
+        height: max-content;
+        margin-top: 6rem;
+    }
 }
