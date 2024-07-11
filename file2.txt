@@ -1,1 +1,4 @@
 This is file two it contains weather names.
+1) winter
+2) summer
+3) monsoon
